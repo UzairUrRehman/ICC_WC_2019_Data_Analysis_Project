@@ -46,4 +46,3 @@ The project follows a structured EDA workflow to extract meaningful insights usi
 - **icc-cricket-world-cup-2019-eda/**  
   - `ICC_Cricket_World_Cup_2019_EDA.ipynb` → Jupyter Notebook containing the complete EDA  
   - `world_cup_2019.csv` → Dataset used for analysis  
-  - `README.md` → Project documentation  
