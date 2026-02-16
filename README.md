@@ -1,4 +1,4 @@
-# ICC Cricket World Cup 2019 – Data Analysis Project
+# ICC Cricket World Cup 2019 – Data Analysis
 
 A **Exploratory Data Analysis (EDA) project** implemented in **Python**, focusing on match statistics and venue-based insights
 
